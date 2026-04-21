@@ -1,0 +1,185 @@
+/* ============================================================
+   style.css — Grocery Teller Dashboard
+   Matches the clean white card layout from the screenshot
+   ============================================================ */
+
+
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+    font-family: 'Nunito', sans-serif;
+    background: #e8e8e8;   /* grey page background like screenshot */
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 40px 16px;
+}
+
+/* White card in the centre — exactly like the screenshot */
+.dashboard {
+    background: #ffffff;
+    width: 100%;
+    max-width: 580px;
+    padding: 50px 40px 60px;
+    border-radius: 4px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.08);
+}
+
+/* Page title */
+.page-header {
+    width: 100%;
+    max-width: 580px;
+    margin: 0 auto 0 auto;
+}
+
+/* We need page-header inside the card visually, so let's just
+   place it at the top of .dashboard via include() */
+.page-header h1 {
+    font-size: 1.9rem;
+    font-weight: 800;
+    color: #111;
+    text-align: center;
+    margin-bottom: 28px;
+}
+
+/* "Select Item" label */
+.label {
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #222;
+    margin-bottom: 10px;
+}
+
+/* Dropdown */
+select {
+    display: block;
+    width: 100%;
+    max-width: 340px;
+    margin: 0 auto 12px auto;
+    padding: 10px 14px;
+    border: 1.5px solid #ccc;
+    border-radius: 6px;
+    font-size: 0.97rem;
+    font-family: 'Nunito', sans-serif;
+    color: #222;
+    background: #fff;
+    appearance: none;
+    cursor: pointer;
+}
+
+select:focus { outline: none; border-color: #888; }
+
+/* Quantity input */
+input[type="number"] {
+    display: block;
+    width: 100%;
+    max-width: 340px;
+    margin: 0 auto 14px auto;
+    padding: 10px 14px;
+    border: 1.5px solid #ccc;
+    border-radius: 6px;
+    font-size: 0.97rem;
+    font-family: 'Nunito', sans-serif;
+    color: #222;
+}
+input[type="number"]:focus { outline: none; border-color: #888; }
+
+/* Add Item button — green like screenshot */
+.btn-add {
+    display: block;
+    margin: 0 auto 28px auto;
+    padding: 11px 32px;
+    background: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-size: 1rem;
+    font-weight: 700;
+    font-family: 'Nunito', sans-serif;
+    cursor: pointer;
+    transition: backg round 0.15s;
+}
+.btn-add:hover { background: #218838; }
+
+/* Total row */
+.total-row {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 16px;
+    padding: 0 4px;
+}
+
+.total-label  { font-size: 1rem; color: #333;  }
+
+.total-amount {
+    font-size: 1.15rem;
+    font-weight: 800;
+    color: #111;
+    flex: 1;
+}
+
+/* Buy button — blue like screenshot */
+.btn-buy {
+    padding: 9px 22px;
+    background: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-size: 0.95rem;
+    font-weight: 700;
+    font-family: 'Nunito', sans-serif;
+    cursor: pointer;
+    transition: background 0.15s;
+}
+.btn-buy:hover    { background: #0056b3; }
+.btn-buy:disabled { background: #a0c4f1; cursor: not-allowed; }
+
+/* Items table */
+.items-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.93rem;
+}
+
+.items-table th {
+    text-align: left;
+    padding: 8px 10px;
+    font-weight: 800;
+    color: #111;
+    border-bottom: 2px solid #eee;
+}
+
+.items-table td {
+    padding: 10px 10px;
+    color: #333;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+/* Alternating row shade like screenshot */
+.items-table tbody tr:nth-child(even) td {
+    background: #f5f5f5;
+}
+
+.empty-row {
+    text-align: center;
+    color: #aaa;
+    font-style: italic;
+    padding: 20px 0 !important;
+}
+
+/* Flash message */
+.flash {
+    background: #d4edda;
+    color: #155724;
+    border: 1px solid #b2dfca;
+    border-radius: 6px;
+    padding: 10px 16px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 0.93rem;
+    text-align: center;
+}

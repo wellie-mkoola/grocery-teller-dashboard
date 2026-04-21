@@ -1,0 +1,90 @@
+=== SALE — 21 Apr 2026, 00:11:07 ===
+Salt | MWK 800 x 6 = MWK 4,800
+Eggs | MWK 4,500 x 5 = MWK 22,500
+Juice | MWK 3,000 x 1 = MWK 3,000
+TOTAL: MWK 30,300
+
+=== SALE — 21 Apr 2026, 00:11:33 ===
+Sugar | MWK 2,500 x 2 = MWK 5,000
+TOTAL: MWK 5,000
+
+=== SALE — 21 Apr 2026, 00:11:58 ===
+Bread | MWK 1,800 x 7 = MWK 12,600
+Rice | MWK 3,500 x 4 = MWK 14,000
+TOTAL: MWK 26,600
+
+=== SALE — 21 Apr 2026, 00:26:14 ===
+Sugar | MWK 2,500 x 10 = MWK 25,000
+Bread | MWK 1,800 x 2 = MWK 3,600
+Rice | MWK 3,500 x 3 = MWK 10,500
+Milk | MWK 2,200 x 4 = MWK 8,800
+Salt | MWK 800 x 4 = MWK 3,200
+Cooking Oil | MWK 5,000 x 2 = MWK 10,000
+Biscuits | MWK 1,200 x 2 = MWK 2,400
+Juice | MWK 3,000 x 2 = MWK 6,000
+TOTAL: MWK 69,500
+
+=== SALE — 21 Apr 2026, 08:41:00 ===
+Bread | MWK 1,800 x 1 = MWK 1,800
+Biscuits | MWK 1,200 x 9 = MWK 10,800
+TOTAL: MWK 12,600
+
+=== SALE — 21 Apr 2026, 08:46:04 ===
+Cooking Oil | MWK 5,000 x 5 = MWK 25,000
+Bread | MWK 1,800 x 2 = MWK 3,600
+Sugar | MWK 2,500 x 3 = MWK 7,500
+Milk | MWK 2,200 x 4 = MWK 8,800
+TOTAL: MWK 44,900
+
+=== SALE — 21 Apr 2026, 08:55:13 ===
+Juice | MWK 3,000 x 9 = MWK 27,000
+TOTAL: MWK 27,000
+
+=== SALE — 21 Apr 2026, 09:22:59 ===
+Eggs | MWK 4,500 x 5 = MWK 22,500
+Sugar | MWK 2,500 x 1 = MWK 2,500
+TOTAL: MWK 25,000
+
+=== SALE — 21 Apr 2026, 09:23:10 ===
+Juice | MWK 3,000 x 2 = MWK 6,000
+TOTAL: MWK 6,000
+
+=== SALE — 21 Apr 2026, 09:23:39 ===
+Cooking Oil | MWK 5,000 x 2 = MWK 10,000
+Milk | MWK 2,200 x 4 = MWK 8,800
+Rice | MWK 3,500 x 5 = MWK 17,500
+TOTAL: MWK 36,300
+
+=== SALE — 21 Apr 2026, 09:25:46 ===
+Juice | MWK 3,000 x 3 = MWK 9,000
+Bread | MWK 1,800 x 4 = MWK 7,200
+TOTAL: MWK 16,200
+
+=== SALE — 21 Apr 2026, 09:26:45 ===
+Biscuits | MWK 1,200 x 4 = MWK 4,800
+Sugar | MWK 2,500 x 5 = MWK 12,500
+TOTAL: MWK 17,300
+
+=== SALE — 21 Apr 2026, 09:43:30 ===
+Bread | MWK 1,800 x 3 = MWK 5,400
+Sugar | MWK 2,500 x 1 = MWK 2,500
+TOTAL: MWK 7,900
+
+=== SALE — 21 Apr 2026, 09:44:45 ===
+Bread | MWK 1,800 x 6 = MWK 10,800
+Rice | MWK 3,500 x 5 = MWK 17,500
+TOTAL: MWK 28,300
+
+=== SALE — 21 Apr 2026, 10:52:43 ===
+Sugar 1Kg | MWK 5,500 x 2 = MWK 11,000
+Rice 1Kg | MWK 3,800 x 1 = MWK 3,800
+TOTAL: MWK 14,800
+
+=== SALE — 21 Apr 2026, 10:53:12 ===
+Rice 1Kg | MWK 3,800 x 2 = MWK 7,600
+TOTAL: MWK 7,600
+
+=== SALE — 21 Apr 2026, 11:16:56 ===
+Bread | MWK 3,000 x 1 = MWK 3,000
+TOTAL: MWK 3,000
+
